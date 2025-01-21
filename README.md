@@ -1,6 +1,6 @@
 The following repository contains datasets for analysis and generating figures in:
 
-Centromere-associated retroelement evolution in *Drosophila melanogaster* reveals an underlying conflict. BioRxiv [https://doi.org/](https://doi.org/)
+Centromere-associated retroelement evolution in *Drosophila melanogaster* reveals an underlying conflict. BioRxiv [https://doi.org/10.1101/2022.11.25.518008](https://doi.org/10.1101/2022.11.25.518008)
 Lucas Hemmer<sup>1,2</sup>, Sherif Negm<sup>1,3</sup>, Xuewen Geng<sup>1</sup>, Cecile Courret<sup>1</sup>, Beatriz Navarro-Domínguez<sup>1,4</sup>, Iain Speece<sup>1</sup>, Eddyson Altidor<sup>1</sup>, James Chaffer<sup>1</sup>, John S. Sproul<sup>1,5</sup>, Amanda M. Larracuente<sup>1</sup>
 
 <sup>1</sup> Department of Biology, University of Rochester, Rochester, NY, USA
