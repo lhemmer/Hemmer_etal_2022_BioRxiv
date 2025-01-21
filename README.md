@@ -1,6 +1,6 @@
 The following repository contains datasets for analysis and generating figures in:
 
-Centromere-associated retroelement evolution in *Drosophila melanogaster* reveals an underlying conflict. BioRxiv [https://doi.org/10.1101/2022.11.25.518008](https://doi.org/10.1101/2022.11.25.518008)
+Centromere-associated retroelement evolution in *Drosophila melanogaster* reveals an underlying conflict. BioRxiv [https://doi.org/10.1101/2022.11.25.518008](https://doi.org/10.1101/2022.11.25.518008).
 Lucas Hemmer<sup>1,2</sup>, Sherif Negm<sup>1,3</sup>, Xuewen Geng<sup>1</sup>, Cecile Courret<sup>1</sup>, Beatriz Navarro-Domínguez<sup>1,4</sup>, Iain Speece<sup>1</sup>, Eddyson Altidor<sup>1</sup>, James Chaffer<sup>1</sup>, John S. Sproul<sup>1,5</sup>, Amanda M. Larracuente<sup>1</sup>
 
 <sup>1</sup> Department of Biology, University of Rochester, Rochester, NY, USA
@@ -32,12 +32,12 @@ The datasets are organized and used for the following:
 These are primarily used for the Age of Allele Test. Those elements used in the Age-of-Allele test were detected by the McClintock pipeline and Figures 6B and S6
 
 The files include:
-alignment_dmel_scaffold2_plus0310_2.fasta.out.G2.fasta - alignment of all *G2/Jockey-3 elements*
-alignment_mel_BS_agest_DGRP3.fasta - alignment of *BS* copies for age-of-allele test
-alignment_mel_DOC_agest_DGRP3.fasta - alignment of *Do*c copies for age-of-allele test
-alignment_mel_DOC2_DM_agest_DGRP3.fasta - alignment of *Doc2* copies for age-of-allele test
-alignment_mel_G5_DM_agest_DGRP3.fasta - alignment of *G5* copies for age-of-allele test
-alignment_mel_jockey-3_agetest_DGRP3.fasta - alignment of *G2/Jockey-3* copies for age-of-allele test
+alignment_dmel_scaffold2_plus0310_2.fasta.out.G2.fasta -- alignment of all *G2/Jockey-3 elements*
+alignment_mel_BS_agest_DGRP3.fasta -- alignment of *BS* copies for age-of-allele test
+alignment_mel_DOC_agest_DGRP3.fasta -- alignment of *Do*c copies for age-of-allele test
+alignment_mel_DOC2_DM_agest_DGRP3.fasta -- alignment of *Doc2* copies for age-of-allele test
+alignment_mel_G5_DM_agest_DGRP3.fasta -- alignment of *G5* copies for age-of-allele test
+alignment_mel_jockey-3_agetest_DGRP3.fasta -- alignment of *G2/Jockey-3* copies for age-of-allele test
 
 
 ### Diversity
@@ -76,11 +76,11 @@ All_filtered_snps.variant.select.vcf
 
 These files were used with the McClintock pipeline found at [https://github.com/bergmanlab/mcclintock](https://github.com/bergmanlab/mcclintock). They include the following:
 
-dmel_scaffold2_plus0310_2.fasta - genome FASTA file
-dmel_scaffold2_plus0310_2.fasta.out.gff - genome transposon annotation file from Repeatmasker
-dmel.chromosomes.fa.TE.mcClintock.2020.gff - modified transposon annotation file for running McClintock
-dmel.chromosomes.fa.TE.mcClintock.2020.tsv - modified transposon annotation list for running McClintock
-specieslib_mcClintock_2020_mod.fasta - the transposon library
+dmel_scaffold2_plus0310_2.fasta -- genome FASTA file
+dmel_scaffold2_plus0310_2.fasta.out.gff -- genome transposon annotation file from Repeatmasker
+dmel.chromosomes.fa.TE.mcClintock.2020.gff -- modified transposon annotation file for running McClintock
+dmel.chromosomes.fa.TE.mcClintock.2020.tsv -- modified transposon annotation list for running McClintock
+specieslib_mcClintock_2020_mod.fasta -- the transposon library
 
 
 ### Paper
