@@ -37,7 +37,7 @@ alignment_dmel_scaffold2_plus0310_2.fasta.out.G2.fasta -- alignment of all *G2/J
 
 alignment_mel_BS_agest_DGRP3.fasta -- alignment of *BS* copies for age-of-allele test
 
-alignment_mel_DOC_agest_DGRP3.fasta -- alignment of *Do*c copies for age-of-allele test
+alignment_mel_DOC_agest_DGRP3.fasta -- alignment of *Doc* copies for age-of-allele test
 
 alignment_mel_DOC2_DM_agest_DGRP3.fasta -- alignment of *Doc2* copies for age-of-allele test
 
