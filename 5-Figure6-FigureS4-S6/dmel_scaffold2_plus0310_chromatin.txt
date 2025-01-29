@@ -1,0 +1,202 @@
+chromosome	chromatin	region	contig_name	start.range	end.range	length
+2	het	telomere	2L_1	0	35000	35000
+2	eu	.	2L_1	35000	21497588	21462588
+2	eu	.	2L_2	0	1561069	1561069
+2	het	.	2L_2	1561069	2041562	480493
+2	het	.	2R_16	0	784897	784897
+2	het	.	2R_18	0	724820	724820
+2	het	.	2R_19	0	416897	416897
+2	het	.	2R_20	0	1966542	1966542
+2	het	.	2R_21	0	1656950	1656950
+2	eu	.	2R_21	1656950	21579400	19922450
+2	het	telomere	2R_21	21579400	21691270	111870
+2	het	.	2R2_56_D1828	0	13164	13164
+3	het	proximal_centromeric region	3Cen_27_D1777	0	11973	11973
+3	het	.	3Cen_31_D1643_D1653_D1791_1	0	30458	30458
+3	het	.	3Cen_31_D1643_D1653_D1791_5	0	2876	2876
+3	het	.	3Cen_31_D1643_D1653_D1791_6	0	23938	23938
+3	het	.	3Cen_31_D1643_D1653_D1791_8	0	71438	71438
+3	het	proximal_centromeric region	3Cen_36_D1605_1	0	27124	27124
+3	het	proximal_centromeric region	3Cen_36_D1605_2	0	9663	9663
+3	het	proximal_centromeric region	3Cen_50_D1686_1	0	5642	5642
+3	het	proximal_centromeric region	3Cen_50_D1686_2	0	14583	14583
+3	het	telomere	3L_1	0	7000	7000
+3	eu	.	3L_1	7000	22946425	22939425
+3	het	.	3L_1	22946425	24600008	1653583
+3	het	.	3L_10	0	1333836	1333836
+3	het	.	3L_3	0	106275	106275
+3	het	.	3L_4	0	1804980	1804980
+3	het	.	3L_5	0	545545	545545
+3	het	.	3L_8	0	9398	9398
+3	het	proximal_centromeric region	3R_1	0	27264	27264
+3	het	proximal_centromeric region	3R_10	0	36246	36246
+3	het	proximal_centromeric region	3R_2	0	3452	3452
+3	eu	.	3R_28	0	27961000	27961000
+3	het	telomere	3R_28	27961000	27994903	33903
+3	het	proximal_centromeric region	3R_3	0	13549	13549
+3	het	proximal_centromeric region	3R_4	0	2314	2314
+3	het	centromere	3R_5	0	103827	103827
+3	het	proximal_centromeric region	3R_6	0	45849	45849
+3	het	proximal_centromeric region	3R_8	0	16639	16639
+3	het	proximal_centromeric region	3R_9	0	79293	79293
+3	het	.	3_scaffold1	0	2808589	2808589
+3	het	.	3_scaffold2	0	1735083	1735083
+4	het	.	4_2	0	50000	50000
+4	eu	.	4_2	50000	1317735	1267735
+3	het	.	Contig101	0	50038	50038
+X	het	proximal_centromeric region	Contig102	0	4967	4967
+X	het	proximal_centromeric region	Contig103	0	7153	7153
+3	het	proximal_centromeric region	Contig11	0	338657	338657
+	het	.	Contig111	0	50623	50623
+	het	.	Contig112	0	52470	52470
+	het	.	Contig114	0	89724	89724
+	het	.	Contig117	0	40889	40889
+	het	.	Contig118	0	38442	38442
+4	het	centromere	Contig119	0	93914	93914
+X	het	proximal_centromeric region	Contig120	0	98825	98825
+.	het	.	Contig121	0	50340	50340
+.	het	.	Contig123	0	40807	40807
+.	het	.	Contig128	0	38311	38311
+.	het	telomere	Contig129	0	34040	34040
+.	het	telomere	Contig13	0	268964	268964
+.	het	.	Contig133	0	25747	25747
+.	het	.	Contig134	0	37526	37526
+X	het	.	Contig135	0	439355	439355
+2	het	proximal_centromeric region	Contig142	0	60000	60000
+2	het	proximal_centromeric region	Contig142	60000	183015	123015
+3	het	proximal_centromeric region	Contig145	0	99622	99622
+.	het	.	Contig147	0	93105	93105
+.	het	.	Contig149	0	98868	98868
+.	het	.	Contig150	0	113509	113509
+.	het	.	Contig151	0	47769	47769
+.	het	.	Contig157	0	21176	21176
+.	het	.	Contig21	0	200908	200908
+X	het	proximal_centromeric region	Contig31	0	27958	27958
+.	het	.	Contig36	0	133201	133201
+.	het	.	Contig37	0	41805	41805
+.	het	.	Contig38	0	224834	224834
+.	het	.	Contig39	0	95124	95124
+.	het	.	Contig41	0	33639	33639
+.	het	.	Contig42	0	52851	52851
+.	het	.	Contig43	0	38154	38154
+.	het	.	Contig45	0	55038	55038
+.	het	.	Contig46	0	72052	72052
+.	het	.	Contig47	0	52399	52399
+.	het	.	Contig49	0	42125	42125
+X	het	.	Contig5	0	535166	535166
+.	het	.	Contig50	0	90319	90319
+.	het	.	Contig51	0	43300	43300
+.	het	.	Contig53	0	52039	52039
+.	het	.	Contig54	0	51347	51347
+.	het	.	Contig55	0	72375	72375
+.	het	.	Contig56	0	39431	39431
+.	het	.	Contig57	0	65984	65984
+.	het	.	Contig58	0	35216	35216
+.	het	.	Contig59	0	64516	64516
+.	het	.	Contig61	0	40591	40591
+.	het	.	Contig62	0	61736	61736
+.	het	.	Contig63	0	34725	34725
+.	het	.	Contig64	0	40641	40641
+.	het	.	Contig66	0	46486	46486
+.	het	.	Contig69	0	37816	37816
+.	het	.	Contig72	0	48072	48072
+X	het	centromere	Contig79	0	70181	70181
+3	het	.	Contig80	0	13218	13218
+.	het	telomere	Contig82	0	232305	232305
+X	het	proximal_centromeric region	Contig83	0	15769	15769
+3	het	proximal_centromeric region	Contig86	0	30087	30087
+.	het	.	Contig87	0	13052	13052
+3	het	.	Contig9	0	393235	393235
+.	het	.	Contig90	0	32831	32831
+.	het	.	Contig92	0	25251	25251
+.	het	.	Contig93	0	19945	19945
+3	het	.	Contig94	0	12855	12855
+X	het	proximal_centromeric region	Contig95	0	17404	17404
+X	het	proximal_centromeric region	Contig96	0	19727	19727
+3	het	.	Contig98	0	7989	7989
+.	het	.	Contig99	0	21056	21056
+.		.	dmel_mitochondrion_genome	0	19532	19532
+2	het	proximal_centromeric region	Rsp_2	0	25308	25308
+X	het	telomere	X_1	0	123800	123800
+X	eu	.	X_1	123800	21906113	21782313
+X	het	.	X_10	0	115839	115839
+X	eu	.	X_2	0	353202	353202
+X	eu	.	X_3	0	20518	20518
+X	het	.	X3X4_6_D1712_2	0	67988	67988
+X	eu	.	X_7	0	340031	340031
+X	het	.	X_7	340031	733110	393079
+X	het	.	X_9	0	35571	35571
+Y	het	.	Y_Contig10	0	396096	396096
+Y	het	.	Y_Contig100	0	6306	6306
+Y	het	.	Y_Contig104	0	415375	415375
+Y	het	.	Y_Contig106	0	59005	59005
+Y	het	.	Y_Contig108	0	42663	42663
+Y	het	.	Y_Contig109	0	38313	38313
+Y	het	.	Y_Contig113	0	50367	50367
+Y	het	.	Y_Contig122	0	59453	59453
+Y	het	.	Y_Contig124	0	71252	71252
+Y	het	.	Y_Contig125	0	33888	33888
+Y	het	.	Y_Contig126	0	56127	56127
+Y	het	.	Y_Contig127	0	60823	60823
+Y	het	.	Y_Contig130	0	70942	70942
+Y	het	.	Y_Contig132	0	23371	23371
+Y	het	.	Y_Contig14	0	239311	239311
+Y	het	.	Y_Contig140	0	716467	716467
+Y	het	.	Y_Contig141	0	190784	190784
+Y	het	.	Y_Contig143	0	83747	83747
+Y	het	.	Y_Contig17	0	416887	416887
+Y	het	proximal_centromeric region	Y_Contig2	0	1011280	1011280
+Y	het	.	Y_Contig20	0	338369	338369
+Y	het	.	Y_Contig22	0	157794	157794
+Y	het	.	Y_Contig23	0	189747	189747
+Y	het	centromere	Y_Contig26	0	139957	139957
+Y	het	.	Y_Contig28	0	157911	157911
+Y	het	.	Y_Contig29	0	123550	123550
+Y	het	.	Y_Contig32	0	50581	50581
+Y	het	.	Y_Contig33	0	260816	260816
+Y	het	.	Y_Contig34	0	93265	93265
+Y	het	.	Y_Contig35	0	186386	186386
+Y	het	.	Y_Contig4	0	644356	644356
+Y	het	.	Y_Contig40	0	37260	37260
+Y	het	.	Y_Contig44	0	35218	35218
+Y	het	.	Y_Contig48	0	48393	48393
+Y	het	.	Y_Contig52	0	39424	39424
+Y	het	.	Y_Contig6	0	458350	458350
+Y	het	.	Y_Contig65	0	52166	52166
+Y	het	.	Y_Contig68	0	18332	18332
+Y	het	.	Y_Contig70	0	28820	28820
+Y	het	.	Y_Contig71	0	18047	18047
+Y	het	.	Y_Contig73	0	58927	58927
+Y	het	.	Y_Contig74	0	92656	92656
+Y	het	.	Y_Contig75	0	62633	62633
+Y	het	.	Y_Contig77	0	107302	107302
+Y	het	.	Y_Contig78	0	74813	74813
+Y	het	.	Y_Contig81	0	32099	32099
+Y	het	.	Y_Contig88	0	41475	41475
+Y	het	.	Y_Contig89	0	25792	25792
+Y	het	.	Y_Contig91	0	37888	37888
+Y	het	.	Y_Contig97	0	34309	34309
+Y	het	.	Y_scaffold3	0	235319	235319
+Y	het	.	Y_scaffold4	0	3349330	3349330
+Y	het	.	Y_scaffold5	0	686231	686231
+Y	het	.	Y_scaffold6	0	574027	574027
+Y	het	.	Y_scaffold7	0	2069423	2069423
+3	het	proximal_centromeric region	id=102159_0	0	20774	20774
+X	het	.	id=104983_0	0	24728	24728
+X	het	.	id=130011_0	0	16412	16412
+.	het	.	id=134134_0	0	16339	16339
+.	het	.	id=134699_0	0	14118	14118
+.	het	.	id13735	0	20650	20650
+.	het	.	id13809	0	20650	20650
+3	het	proximal_centromeric region	id=139401_0	0	11405	11405
+.	het	.	id=142686_0	0	19566	19566
+.	het	.	id=154173_0	0	6590	6590
+.	het	.	id=51911_0	0	22343	22343
+.	het	.	id5721	0	21076	21076
+3	het	proximal_centromeric region	id=67822_0	0	14294	14294
+3	het	proximal_centromeric region	tig00000039	0	42086	42086
+.	het	.	tig00002536	0	17216	17216
+.	het	.	tig00002845	0	33385	33385
+3	het	proximal_centromeric region	tig00022795	0	30745	30745
+.	het	.	tig00051078	0	8880	8880
+2	het	centromere	tig00057289	0	24561	24561

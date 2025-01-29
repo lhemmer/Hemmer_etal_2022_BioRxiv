@@ -1,0 +1,327 @@
+te.name	contig	contig.start	contig.end	div	TE	te.start	te.end	strain	ref.chrom	ref.chromatin	ref.region	uniq.subs	grouping
+2L_1:4813089-4813141|-|	2L_1	4813090	4813141	15.9	Jockey-3_DM	2683	2727	ISO1	2	eu	.	NA	Euchromatin
+2L_1|11365843-11368214|+|	2L_1	11365844	11368214	0.7	Jockey-3_DM	1933	4303	ISO1	2	eu	.	4	Euchromatin
+2L_1|13650159-13651288|-|	2L_1	13650160	13651288	1	Jockey-3_DM	3166	4275	ISO1	2	eu	.	4	Euchromatin
+2L_1|20152818-20153306|-|	2L_1	20152819	20153306	2	Jockey-3_DM	3111	3598	ISO1	2	eu	.	3	Euchromatin
+2L_1|20153302-20154005|+|	2L_1	20153303	20154005	3.1	Jockey-3_DM	3591	4293	ISO1	2	eu	.	5	Euchromatin
+2L_1|20193280-20193360|-|	2L_1	20193281	20193360	8.8	Jockey-3_DM	2452	2532	ISO1	2	eu	.	1	Euchromatin
+2L_1|20193357-20194686|-|	2L_1	20193358	20194686	5	Jockey-3_DM	727	2067	ISO1	2	eu	.	4	Euchromatin
+2L_1|20246641-20246968|-|	2L_1	20246642	20246968	6.5	Jockey-3_DM	3941	4267	ISO1	2	eu	.	1	Euchromatin
+2L_1|20246960-20247585|-|	2L_1	20246961	20247585	6.4	Jockey-3_DM	3187	3829	ISO1	2	eu	.	12	Euchromatin
+2L_1|20247564-20248096|-|	2L_1	20247565	20248096	4.9	Jockey-3_DM	2451	3006	ISO1	2	eu	.	8	Euchromatin
+2L_1|20248093-20249401|-|	2L_1	20248094	20249401	5.4	Jockey-3_DM	727	2067	ISO1	2	eu	.	10	Euchromatin
+2L_1|20255613-20258690|-|	2L_1	20255614	20258690	0.5	Jockey-3_DM	1191	4274	ISO1	2	eu	.	1	Euchromatin
+2L_1|20259992-20260192|+|	2L_1	20259993	20260192	8	Jockey-3_DM	3607	3806	ISO1	2	eu	.	1	Euchromatin
+2L_1|20260177-20260507|+|	2L_1	20260178	20260507	7.7	Jockey-3_DM	3937	4267	ISO1	2	eu	.	4	Euchromatin
+2L_2|121852-122992|+|	2L_2	121853	122992	3.1	Jockey-3_DM	3122	4299	ISO1	2	eu	.	3	Euchromatin
+2L_2|1219109-1219467|+|	2L_2	1219110	1219467	24.4	Jockey-3_DM	691	1124	ISO1	2	eu	.	NA	Euchromatin
+2L_2|1221483-1221536|+|	2L_2	1221484	1221536	18.9	Jockey-3_DM	3587	3639	ISO1	2	eu	.	NA	Euchromatin
+2R_18|665527-668929|-|	2R_18	665528	668929	1.1	Jockey-3_DM	893	4294	ISO1	2	het	.	11	Heterochromatin
+2R_18|692028-692215|+|	2R_18	692029	692215	16.9	Jockey-3_DM	1495	1679	ISO1	2	het	.	25	Heterochromatin
+2R_20|1269074-1269330|+|	2R_20	1269075	1269330	25.9	Jockey-3_DM	846	1109	ISO1	2	het	.	NA	Heterochromatin
+2R_20|1269356-1269409|+|	2R_20	1269357	1269409	9.4	Jockey-3_DM	1378	1430	ISO1	2	het	.	4	Heterochromatin
+2R_20|1269406-1269843|+|	2R_20	1269407	1269843	23.3	Jockey-3_DM	1573	2034	ISO1	2	het	.	NA	Heterochromatin
+2R_20|1269958-1270214|+|	2R_20	1269959	1270214	27.4	Jockey-3_DM	2510	2774	ISO1	2	het	.	NA	Heterochromatin
+2R_20|1275288-1276850|+|	2R_20	1275289	1276850	2.2	Jockey-3_DM	2719	4301	ISO1	2	het	.	4	Heterochromatin
+2R_20|1819963-1821059|-|	2R_20	1819964	1821059	0	Jockey-3_DM	3166	4274	ISO1	2	het	.	0	Heterochromatin
+2R_21|1271791-1272138|-|	2R_21	1271792	1272138	28.5	Jockey-3_DM	1342	1728	ISO1	2	het	.	NA	Heterochromatin
+2R_21|1444851-1445061|+|	2R_21	1444852	1445061	23.3	Jockey-3_DM	2426	2656	ISO1	2	het	.	NA	Heterochromatin
+2R_21|21088229-21090148|+|	2R_21	21088230	21090148	0.7	Jockey-3_DM	2377	4295	ISO1	2	eu	.	3	Euchromatin
+2R_21|21418906-21518950|-|	2R_21	21518907	21518950	20.4	Jockey-3_DM	766	809	ISO1	2	eu	.	NA	Euchromatin
+3L_1|6131003-6131124|+|	3L_1	6131004	6131124	18.2	Jockey-3_DM	3073	3278	ISO1	3	eu	.	NA	Euchromatin
+3L_1|17053255-17053379|+|	3L_1	17053256	17053379	2.4	Jockey-3_DM	4167	4290	ISO1	3	eu	.	0	Euchromatin
+3L_1|21345681-21346585|+|	3L_1	21345682	21346585	2.1	Jockey-3_DM	3392	4295	ISO1	3	eu	.	4	Euchromatin
+3L_1|21752657-21752768|+|	3L_1	21752658	21752768	6.3	Jockey-3_DM	4167	4291	ISO1	3	eu	.	2	Euchromatin
+3R_28|3954385-3957417|-|	3R_28	3954386	3957417	0.4	Jockey-3_DM	1259	4290	ISO1	3	eu	.	2	Euchromatin
+3R_5|19174-19274|-|	3R_5	19175	19274	10	Jockey-3_DM	4196	4296	ISO1	3	het	centromere	0	Non-Y Cent
+3R_5|19275-19684|-|	3R_5	19276	19684	4.4	Jockey-3_DM	3653	4078	ISO1	3	het	centromere	3	Non-Y Cent
+3R_5|19683-20286|-|	3R_5	19684	20286	4.6	Jockey-3_DM	2594	3208	ISO1	3	het	centromere	3	Non-Y Cent
+3R_5|46496-48181|-|	3R_5	46497	48181	2.1	Jockey-3_DM	2594	4291	ISO1	3	het	centromere	4	Non-Y Cent
+3R_5|52818-54474|-|	3R_5	52819	54474	4.5	Jockey-3_DM	2594	4290	ISO1	3	het	centromere	2	Non-Y Cent
+3R_5|67216-67778|+|	3R_5	67217	67778	14.2	Jockey-3_DM	101	790	ISO1	3	het	centromere	NA	Non-Y Cent
+3R_5|67775-68216|+|	3R_5	67775	68216	7.9	Jockey-3_DM	1743	2186	ISO1	3	het	centromere	NA	Non-Y Cent
+3R_5|68215-68413|+|	3R_5	68216	68413	10.1	Jockey-3_DM	2652	2849	ISO1	3	het	centromere	9	Non-Y Cent
+3R_5|68414-68544|-|	3R_5	68415	68544	7.7	Jockey-3_DM	3325	3455	ISO1	3	het	centromere	8	Non-Y Cent
+3R_5|68541-68648|+|	3R_5	68542	68648	1.9	Jockey-3_DM	1473	1579	ISO1	3	het	centromere	1	Non-Y Cent
+3R_5|69211-69514|+|	3R_5	69212	69514	5	Jockey-3_DM	3991	4299	ISO1	3	het	centromere	5	Non-Y Cent
+3R_9|0-555|+|	3R_9	1	555	0.7	Jockey-3_DM	3749	4303	ISO1	3	het	proximal_centromeric region	0	Heterochromatin
+3_scaffold1|80781-82605|-|	3_scaffold1	80782	82605	0.8	Jockey-3_DM	2392	4274	ISO1	3	het	.	3	Heterochromatin
+3_scaffold1|82591-83966|-|	3_scaffold1	82592	83966	0.7	Jockey-3_DM	581	1955	ISO1	3	het	.	1	Heterochromatin
+3_scaffold1|2058318-2058624|-|	3_scaffold1	2058319	2058624	0.7	Jockey-3_DM	3990	4295	ISO1	3	het	.	1	Heterochromatin
+Contig11|34119-37421|+|	Contig11	34120	37421	0.5	Jockey-3_DM	1002	4303	ISO1	3	het	proximal_centromeric region	3	Heterochromatin
+Contig119|31824-32097|-|	Contig119	31825	32097	0.4	Jockey-3_DM	4024	4297	ISO1	4	het	centromere	0	Non-Y Cent
+Contig119|35128-35454|+|	Contig119	35129	35454	6.8	Jockey-3_DM	1998	2418	ISO1	4	het	centromere	4	Non-Y Cent
+Contig119|35446-36118|+|	Contig119	35447	36118	6	Jockey-3_DM	2930	3601	ISO1	4	het	centromere	12	Non-Y Cent
+Contig119|42262-42723|-|	Contig119	42263	42723	3.9	Jockey-3_DM	3697	4212	ISO1	4	het	centromere	3	Non-Y Cent
+Contig119|42718-43720|-|	Contig119	42719	43720	5.6	Jockey-3_DM	2548	3594	ISO1	4	het	centromere	19	Non-Y Cent
+Contig119|43705-44031|-|	Contig119	43706	44031	7.7	Jockey-3_DM	2085	2429	ISO1	4	het	centromere	15	Non-Y Cent
+Contig119|44016-44827|-|	Contig119	44017	44827	2.2	Jockey-3_DM	3360	4188	ISO1	4	het	centromere	4	Non-Y Cent
+Contig119|44821-45358|-|	Contig119	44822	45358	6	Jockey-3_DM	114	694	ISO1	4	het	centromere	15	Non-Y Cent
+Contig119|48518-51184|+|	Contig119	48519	51184	2.8	Jockey-3_DM	1	2723	ISO1	4	het	centromere	48	Non-Y Cent
+Contig119|51181-51440|-|	Contig119	51182	51440	2.3	Jockey-3_DM	3915	4174	ISO1	4	het	centromere	1	Non-Y Cent
+Contig119|52691-53059|-|	Contig119	52692	53059	2.2	Jockey-3_DM	3915	4284	ISO1	4	het	centromere	0	Non-Y Cent
+Contig119|54312-54683|-|	Contig119	54313	54683	2.7	Jockey-3_DM	3915	4287	ISO1	4	het	centromere	2	Non-Y Cent
+Contig119|55924-56293|-|	Contig119	55925	56293	2.4	Jockey-3_DM	3915	4285	ISO1	4	het	centromere	1	Non-Y Cent
+Contig119|57527-58081|-|	Contig119	57528	58081	2.9	Jockey-3_DM	3736	4289	ISO1	4	het	centromere	6	Non-Y Cent
+Contig119|58079-59406|-|	Contig119	58080	59406	2.4	Jockey-3_DM	1067	2388	ISO1	4	het	centromere	19	Non-Y Cent
+Contig119|60219-60370|+|	Contig119	60220	60370	4	Jockey-3_DM	1723	1873	ISO1	4	het	centromere	4	Non-Y Cent
+Contig119|60368-60772|+|	Contig119	60369	60772	4.2	Jockey-3_DM	2014	2418	ISO1	4	het	centromere	8	Non-Y Cent
+Contig119|60764-62054|+|	Contig119	60765	62054	4.3	Jockey-3_DM	2930	4288	ISO1	4	het	centromere	21	Non-Y Cent
+Contig119|62301-62418|+|	Contig119	62302	62418	2.6	Jockey-3_DM	4141	4286	ISO1	4	het	centromere	1	Non-Y Cent
+Contig119|64034-64542|-|	Contig119	64035	64542	2.4	Jockey-3_DM	3787	4295	ISO1	4	het	centromere	4	Non-Y Cent
+Contig119|64539-66223|-|	Contig119	64540	66223	2.5	Jockey-3_DM	1	1703	ISO1	4	het	centromere	28	Non-Y Cent
+Contig135|287659-289934|+|	Contig135	287660	289934	2.1	Jockey-3_DM	1	2289	ISO1	X	het	.	0	Heterochromatin
+Contig135|291044-293318|+|	Contig135	291045	293318	2.1	Jockey-3_DM	1	2289	ISO1	X	het	.	1	Heterochromatin
+Contig135|294667-296933|+|	Contig135	294668	296933	2.2	Jockey-3_DM	1	2289	ISO1	X	het	.	2	Heterochromatin
+Contig135|297803-302075|+|	Contig135	297804	302075	3	Jockey-3_DM	1	4298	ISO1	X	het	.	11	Heterochromatin
+Contig135|328888-330523|-|	Contig135	328889	330523	3.2	Jockey-3_DM	278	1915	ISO1	X	het	.	9	Heterochromatin
+Contig150|100731-103199|+|	Contig150	100732	103199	1.1	Jockey-3_DM	1	2466	ISO1	.	het	.	1	Heterochromatin
+Contig150|103194-104919|+|	Contig150	103195	104919	0.5	Jockey-3_DM	2579	4303	ISO1	.	het	.	0	Heterochromatin
+Contig49|19050-23354|+|	Contig49	19051	23354	0.9	Jockey-3_DM	1	4298	ISO1	.	het	.	0	Heterochromatin
+Contig5|70367-74180|+|	Contig5	70368	74180	0.6	Jockey-3_DM	491	4303	ISO1	X	het	.	2	Heterochromatin
+Contig5|113171-116983|+|	Contig5	113172	116983	0.6	Jockey-3_DM	491	4303	ISO1	X	het	.	4	Heterochromatin
+Contig5|307437-308188|+|	Contig5	307438	308188	8.2	Jockey-3_DM	1050	1915	ISO1	X	het	.	20	Heterochromatin
+Contig5|323601-327901|-|	Contig5	323602	327901	2.6	Jockey-3_DM	1	4300	ISO1	X	het	.	26	Heterochromatin
+Contig5|367183-370181|-|	Contig5	367184	370181	3.8	Jockey-3_DM	489	3491	ISO1	X	het	.	8	Heterochromatin
+Contig5|372018-373428|-|	Contig5	372019	373428	3.5	Jockey-3_DM	2790	4275	ISO1	X	het	.	0	Heterochromatin
+Contig5|479945-481134|+|	Contig5	479946	481134	10.2	Jockey-3_DM	1	1940	ISO1	X	het	.	2	Heterochromatin
+Contig79|5655-6019|+|	Contig79	5656	6019	6.8	Jockey-3_DM	1998	2417	ISO1	X	het	centromere	6	Non-Y Cent
+Contig79|6011-7190|+|	Contig79	6012	7190	4.8	Jockey-3_DM	2930	4133	ISO1	X	het	centromere	21	Non-Y Cent
+Contig79|7187-7419|-|	Contig79	7188	7419	3.5	Jockey-3_DM	2353	2598	ISO1	X	het	centromere	2	Non-Y Cent
+Contig79|10829-12679|-|	Contig79	10830	12679	3.2	Jockey-3_DM	2363	4294	ISO1	X	het	centromere	26	Non-Y Cent
+Contig79|12677-13182|-|	Contig79	12678	13182	3.4	Jockey-3_DM	1332	1897	ISO1	X	het	centromere	12	Non-Y Cent
+Contig79|13180-14145|-|	Contig79	13181	14145	4.4	Jockey-3_DM	28	995	ISO1	X	het	centromere	18	Non-Y Cent
+Contig79|17073-17147|+|	Contig79	17074	17147	0	Jockey-3_DM	3	76	ISO1	X	het	centromere	0	Non-Y Cent
+Contig79|19244-19315|-|	Contig79	19245	19315	15.5	Jockey-3_DM	4051	4122	ISO1	X	het	centromere	1	Non-Y Cent
+Contig79|19315-19382|-|	Contig79	19316	19382	4.3	Jockey-3_DM	3026	3071	ISO1	X	het	centromere	0	Non-Y Cent
+Contig79|20114-20260|+|	Contig79	20115	20260	0.7	Jockey-3_DM	3	148	ISO1	X	het	centromere	0	Non-Y Cent
+Contig79|27850-27921|-|	Contig79	27851	27921	15.5	Jockey-3_DM	4051	4122	ISO1	X	het	centromere	0	Non-Y Cent
+Contig79|27908-28004|-|	Contig79	27909	28004	4.9	Jockey-3_DM	2993	3071	ISO1	X	het	centromere	0	Non-Y Cent
+Contig79|28845-28919|+|	Contig79	28846	28919	1.4	Jockey-3_DM	3	76	ISO1	X	het	centromere	1	Non-Y Cent
+Contig79|30822-30968|+|	Contig79	30823	30968	0.7	Jockey-3_DM	3	148	ISO1	X	het	centromere	0	Non-Y Cent
+Contig79|31198-31264|+|	Contig79	31199	31264	1.5	Jockey-3_DM	83	148	ISO1	X	het	centromere	0	Non-Y Cent
+Contig79|34049-34144|-|	Contig79	34050	34144	4.7	Jockey-3_DM	2993	3071	ISO1	X	het	centromere	0	Non-Y Cent
+Contig79|35004-35150|+|	Contig79	35005	35150	2	Jockey-3_DM	3	148	ISO1	X	het	centromere	3	Non-Y Cent
+Contig79|37931-38026|-|	Contig79	37932	38026	4.7	Jockey-3_DM	2993	3071	ISO1	X	het	centromere	0	Non-Y Cent
+Contig79|40081-41084|-|	Contig79	40082	41084	1.9	Jockey-3_DM	3	1052	ISO1	X	het	centromere	17	Non-Y Cent
+Contig79|42282-42514|+|	Contig79	42283	42514	4.3	Jockey-3_DM	2353	2598	ISO1	X	het	centromere	4	Non-Y Cent
+Contig79|42511-44652|-|	Contig79	42512	44652	3.5	Jockey-3_DM	1946	4133	ISO1	X	het	centromere	34	Non-Y Cent
+Contig95|3782-5075|+|	Contig95	753	2033	0.6	Jockey-3_DM	3009	4297	ISO1	X	het	proximal_centromeric region	7	Heterochromatin
+Contig95|752-2033|+|	Contig95	3783	5075	0.5	Jockey-3_DM	3009	4302	ISO1	X	het	proximal_centromeric region	0	Heterochromatin
+X_10|42102-45815|-|	X_10	42103	45815	0.5	Jockey-3_DM	558	4273	ISO1	X	het	.	3	Heterochromatin
+X_10|112770-113091|-|	X_10	112771	113091	17.1	Jockey-3_DM	1	337	ISO1	X	het	.	5	Heterochromatin
+X_10|113057-113960|-|	X_10	113058	113960	6.5	Jockey-3_DM	1050	1940	ISO1	X	het	.	0	Heterochromatin
+X_3|0-433|+|	X_3	1	433	2.5	Jockey-3_DM	3867	4299	ISO1	X	eu	.	0	Euchromatin
+X_7|135043-136795|-|	X_7	135044	136795	2.4	Jockey-3_DM	2550	4299	ISO1	X	eu	.	13	Euchromatin
+Y_Contig10|241546-242605|-|	Y_Contig10	241547	242605	1	Jockey-3_DM	1362	2485	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig10|248772-249888|-|	Y_Contig10	248773	249888	1	Jockey-3_DM	1362	2485	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig10|312110-314979|+|	Y_Contig10	312111	314979	1.3	Jockey-3_DM	1362	4295	ISO1	Y	het	.	6	Heterochromatin
+Y_Contig10|321604-322552|+|	Y_Contig10	321605	322552	0.7	Jockey-3_DM	1362	2374	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig10|322542-323409|+|	Y_Contig10	322543	323409	2.5	Jockey-3_DM	3428	4294	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig10|340997-343846|+|	Y_Contig10	340998	343846	1.2	Jockey-3_DM	1362	4296	ISO1	Y	het	.	5	Heterochromatin
+Y_Contig10|362894-363983|+|	Y_Contig10	362895	363983	0.9	Jockey-3_DM	1362	2516	ISO1	Y	het	.	1	Heterochromatin
+Y_Contig10|363986-365070|+|	Y_Contig10	363987	365070	2	Jockey-3_DM	3212	4294	ISO1	Y	het	.	1	Heterochromatin
+Y_Contig10|386824-387768|+|	Y_Contig10	386825	387768	0.7	Jockey-3_DM	1362	2374	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig10|387758-388616|+|	Y_Contig10	387759	388616	2.7	Jockey-3_DM	3428	4294	ISO1	Y	het	.	3	Heterochromatin
+Y_Contig122|52027-52420|-|	Y_Contig122	52028	52420	0	Jockey-3_DM	3883	4275	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig17|75693-79024|+|	Y_Contig17	75694	79024	0.4	Jockey-3_DM	962	4293	ISO1	Y	het	.	1	Heterochromatin
+Y_Contig20|256751-260792|-|	Y_Contig20	256752	260792	0.6	Jockey-3_DM	231	4273	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig20|261387-262514|-|	Y_Contig20	261388	262514	0.7	Jockey-3_DM	948	2134	ISO1	Y	het	.	2	Heterochromatin
+Y_Contig20|263466-267507|-|	Y_Contig20	263467	267507	0.6	Jockey-3_DM	231	4273	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig20|268099-271863|-|	Y_Contig20	268100	271863	0.6	Jockey-3_DM	231	4054	ISO1	Y	het	.	3	Heterochromatin
+Y_Contig26|2254-2689|+|	Y_Contig26	2255	2689	3.5	Jockey-3_DM	2447	2881	ISO1	Y	het	centromere	3	Clade4
+Y_Contig26|2693-3880|+|	Y_Contig26	2694	3880	1.9	Jockey-3_DM	3087	4303	ISO1	Y	het	centromere	1	Clade1
+Y_Contig26|6146-6438|+|	Y_Contig26	6147	6438	3.1	Jockey-3_DM	3974	4285	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|6763-8366|+|	Y_Contig26	6764	8366	1.2	Jockey-3_DM	181	1801	ISO1	Y	het	centromere	2	Clade1
+Y_Contig26|10832-11129|+|	Y_Contig26	10833	11129	3	Jockey-3_DM	3974	4284	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|11454-12015|+|	Y_Contig26	11455	12015	2	Jockey-3_DM	181	741	ISO1	Y	het	centromere	0	Clade1
+Y_Contig26|12013-15383|+|	Y_Contig26	12014	15383	0.9	Jockey-3_DM	899	4285	ISO1	Y	het	centromere	5	Clade1
+Y_Contig26|17973-18271|+|	Y_Contig26	17974	18271	3.4	Jockey-3_DM	3974	4285	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|18596-22715|+|	Y_Contig26	18597	22715	1.1	Jockey-3_DM	181	4296	ISO1	Y	het	centromere	10	Clade1
+Y_Contig26|24030-26576|-|	Y_Contig26	24031	26576	1.1	Jockey-3_DM	1762	4293	ISO1	Y	het	centromere	6	Clade1
+Y_Contig26|27741-32059|-|	Y_Contig26	27742	32059	1.2	Jockey-3_DM	1	4293	ISO1	Y	het	centromere	8	Clade1
+Y_Contig26|33198-33434|+|	Y_Contig26	33199	33434	5.1	Jockey-3_DM	1	270	ISO1	Y	het	centromere	7	Clade1
+Y_Contig26|33429-33578|+|	Y_Contig26	33430	33578	5.4	Jockey-3_DM	1922	2068	ISO1	Y	het	centromere	2	Clade3
+Y_Contig26|33553-33722|+|	Y_Contig26	33554	33722	7.7	Jockey-3_DM	4121	4292	ISO1	Y	het	centromere	5	Clade2
+Y_Contig26|34026-34351|+|	Y_Contig26	34027	34351	5.3	Jockey-3_DM	1	335	ISO1	Y	het	centromere	14	Clade3
+Y_Contig26|34349-34653|-|	Y_Contig26	34350	34653	2.3	Jockey-3_DM	2618	2921	ISO1	Y	het	centromere	1	Clade3
+Y_Contig26|34816-35402|-|	Y_Contig26	34817	35402	4.4	Jockey-3_DM	2604	3229	ISO1	Y	het	centromere	13	Clade3
+Y_Contig26|35843-36446|+|	Y_Contig26	35844	36446	3	Jockey-3_DM	3665	4267	ISO1	Y	het	centromere	4	Clade4
+Y_Contig26|36446-39903|-|	Y_Contig26	36447	39903	0.9	Jockey-3_DM	841	4294	ISO1	Y	het	centromere	9	Clade1
+Y_Contig26|39911-40080|+|	Y_Contig26	39912	40080	5.3	Jockey-3_DM	3947	4115	ISO1	Y	het	centromere	3	Clade4A
+Y_Contig26|40077-40225|-|	Y_Contig26	40078	40225	10.1	Jockey-3_DM	3723	3883	ISO1	Y	het	centromere	2	Clade4A
+Y_Contig26|40221-40384|+|	Y_Contig26	40222	40384	3.1	Jockey-3_DM	4130	4292	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|40384-40571|-|	Y_Contig26	40385	40571	8.6	Jockey-3_DM	3507	3724	ISO1	Y	het	centromere	4	Clade3
+Y_Contig26|40562-40805|-|	Y_Contig26	40563	40805	4.1	Jockey-3_DM	3102	3412	ISO1	Y	het	centromere	3	Clade3
+Y_Contig26|40804-42451|-|	Y_Contig26	40805	42451	1.5	Jockey-3_DM	2604	4283	ISO1	Y	het	centromere	8	Clade1
+Y_Contig26|42794-43405|+|	Y_Contig26	42795	43405	2.3	Jockey-3_DM	3665	4284	ISO1	Y	het	centromere	4	Clade1
+Y_Contig26|43408-43603|-|	Y_Contig26	43409	43603	3.6	Jockey-3_DM	2604	2798	ISO1	Y	het	centromere	2	Clade3
+Y_Contig26|43612-45220|-|	Y_Contig26	43613	45220	1.2	Jockey-3_DM	2604	4293	ISO1	Y	het	centromere	7	Clade1
+Y_Contig26|45563-46188|+|	Y_Contig26	45564	46188	4.2	Jockey-3_DM	3665	4293	ISO1	Y	het	centromere	4	Clade4
+Y_Contig26|46188-46363|-|	Y_Contig26	46189	46363	8	Jockey-3_DM	3550	3724	ISO1	Y	het	centromere	1	Clade3
+Y_Contig26|46362-47070|-|	Y_Contig26	46363	47070	4.1	Jockey-3_DM	2604	3312	ISO1	Y	het	centromere	7	Clade3
+Y_Contig26|47397-48018|+|	Y_Contig26	47398	48018	3.9	Jockey-3_DM	3665	4285	ISO1	Y	het	centromere	4	Clade4
+Y_Contig26|48018-49139|-|	Y_Contig26	48019	49139	4	Jockey-3_DM	2604	3724	ISO1	Y	het	centromere	14	Clade3
+Y_Contig26|49482-50096|+|	Y_Contig26	49483	50096	3.4	Jockey-3_DM	3665	4289	ISO1	Y	het	centromere	2	Clade4
+Y_Contig26|50097-51127|-|	Y_Contig26	50098	51127	4.5	Jockey-3_DM	2694	3724	ISO1	Y	het	centromere	9	Clade3
+Y_Contig26|51159-52825|-|	Y_Contig26	51160	52825	2.2	Jockey-3_DM	2605	4274	ISO1	Y	het	centromere	9	Clade3
+Y_Contig26|53154-53319|+|	Y_Contig26	53155	53319	4.8	Jockey-3_DM	3665	3829	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|53318-54286|-|	Y_Contig26	53319	54286	3.4	Jockey-3_DM	2604	3573	ISO1	Y	het	centromere	1	Clade3
+Y_Contig26|54615-54780|+|	Y_Contig26	54616	54780	4.8	Jockey-3_DM	3665	3829	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|54779-55747|-|	Y_Contig26	54780	55747	3.3	Jockey-3_DM	2604	3573	ISO1	Y	het	centromere	0	Clade3
+Y_Contig26|56076-56698|+|	Y_Contig26	56077	56698	3.2	Jockey-3_DM	3665	4287	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|56699-57824|-|	Y_Contig26	56700	57824	4	Jockey-3_DM	2604	3724	ISO1	Y	het	centromere	5	Clade3
+Y_Contig26|58153-58778|+|	Y_Contig26	58154	58778	3.4	Jockey-3_DM	3665	4289	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|58779-59720|-|	Y_Contig26	58780	59720	3.8	Jockey-3_DM	2747	3724	ISO1	Y	het	centromere	3	Clade3
+Y_Contig26|59715-60042|-|	Y_Contig26	59716	60042	7.3	Jockey-3_DM	3723	4062	ISO1	Y	het	centromere	5	Clade4A
+Y_Contig26|60038-60197|+|	Y_Contig26	60039	60197	3.1	Jockey-3_DM	4130	4288	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|60197-60475|-|	Y_Contig26	60198	60475	6.1	Jockey-3_DM	3447	3724	ISO1	Y	het	centromere	1	Clade3
+Y_Contig26|60475-61078|-|	Y_Contig26	60476	61078	3.6	Jockey-3_DM	2604	3237	ISO1	Y	het	centromere	0	Clade3
+Y_Contig26|61450-62073|+|	Y_Contig26	61451	62073	3.2	Jockey-3_DM	3665	4287	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|62074-63185|-|	Y_Contig26	62075	63185	3.7	Jockey-3_DM	2604	3724	ISO1	Y	het	centromere	3	Clade3
+Y_Contig26|63514-64115|+|	Y_Contig26	63515	64115	4	Jockey-3_DM	3665	4265	ISO1	Y	het	centromere	3	Clade4
+Y_Contig26|64225-65893|-|	Y_Contig26	64226	65893	1.8	Jockey-3_DM	2604	4273	ISO1	Y	het	centromere	3	Clade3
+Y_Contig26|66222-66824|+|	Y_Contig26	66223	66824	3.5	Jockey-3_DM	3665	4266	ISO1	Y	het	centromere	1	Clade4
+Y_Contig26|66860-68529|-|	Y_Contig26	66861	68529	1.9	Jockey-3_DM	2604	4273	ISO1	Y	het	centromere	5	Clade3
+Y_Contig26|68858-69460|+|	Y_Contig26	68859	69460	3.6	Jockey-3_DM	3665	4266	ISO1	Y	het	centromere	1	Clade4
+Y_Contig26|69496-70277|-|	Y_Contig26	69497	70277	0.8	Jockey-3_DM	3492	4273	ISO1	Y	het	centromere	2	Clade1
+Y_Contig26|70314-71296|-|	Y_Contig26	70315	71296	3.8	Jockey-3_DM	2747	3724	ISO1	Y	het	centromere	3	Clade3
+Y_Contig26|71292-71618|-|	Y_Contig26	71293	71618	6.4	Jockey-3_DM	3723	4061	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|71614-71773|+|	Y_Contig26	71615	71773	3.8	Jockey-3_DM	4130	4288	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|71773-72051|-|	Y_Contig26	71774	72051	6.1	Jockey-3_DM	3447	3724	ISO1	Y	het	centromere	2	Clade3
+Y_Contig26|72051-72654|-|	Y_Contig26	72052	72654	4	Jockey-3_DM	2604	3237	ISO1	Y	het	centromere	2	Clade3
+Y_Contig26|72983-73557|+|	Y_Contig26	72984	73557	3.8	Jockey-3_DM	3665	4266	ISO1	Y	het	centromere	2	Clade4
+Y_Contig26|73643-77222|+|	Y_Contig26	73644	77222	0.9	Jockey-3_DM	1	3605	ISO1	Y	het	centromere	7	Clade1
+Y_Contig26|77259-77790|-|	Y_Contig26	77260	77790	4.5	Jockey-3_DM	3724	4267	ISO1	Y	het	centromere	2	Clade4A
+Y_Contig26|77793-77946|+|	Y_Contig26	77794	77946	3.3	Jockey-3_DM	4136	4288	ISO1	Y	het	centromere	2	Clade2
+Y_Contig26|77946-79030|-|	Y_Contig26	77947	79030	3.9	Jockey-3_DM	2604	3724	ISO1	Y	het	centromere	9	Clade3
+Y_Contig26|79294-83324|+|	Y_Contig26	79295	83324	1.4	Jockey-3_DM	1	4113	ISO1	Y	het	centromere	28	Clade1
+Y_Contig26|83322-86727|-|	Y_Contig26	83323	86727	0.8	Jockey-3_DM	1	3484	ISO1	Y	het	centromere	1	Clade1
+Y_Contig26|86773-87290|-|	Y_Contig26	86774	87290	4.6	Jockey-3_DM	3723	4252	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|87286-87423|+|	Y_Contig26	87287	87423	4.4	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|87423-87552|-|	Y_Contig26	87424	87552	0.8	Jockey-3_DM	4163	4291	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|87593-88264|-|	Y_Contig26	87594	88264	3.7	Jockey-3_DM	2957	3724	ISO1	Y	het	centromere	0	Clade3
+Y_Contig26|88263-91914|-|	Y_Contig26	88264	91914	0.7	Jockey-3_DM	646	4296	ISO1	Y	het	centromere	0	Clade1
+Y_Contig26|91905-92319|-|	Y_Contig26	91906	92319	5.6	Jockey-3_DM	3723	4149	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|92315-92452|+|	Y_Contig26	92316	92452	4.4	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|92452-92581|-|	Y_Contig26	92453	92581	0.8	Jockey-3_DM	4163	4291	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|92623-93294|-|	Y_Contig26	92624	93294	3.7	Jockey-3_DM	2957	3724	ISO1	Y	het	centromere	0	Clade3
+Y_Contig26|93293-97591|-|	Y_Contig26	93294	97591	0.9	Jockey-3_DM	1	4296	ISO1	Y	het	centromere	4	Clade1
+Y_Contig26|97601-97958|-|	Y_Contig26	97602	97958	3.4	Jockey-3_DM	2604	2960	ISO1	Y	het	centromere	0	Clade3
+Y_Contig26|98287-98400|+|	Y_Contig26	98288	98400	7.1	Jockey-3_DM	3665	3777	ISO1	Y	het	centromere	1	Clade4
+Y_Contig26|98399-98751|+|	Y_Contig26	98400	98751	3.4	Jockey-3_DM	3934	4289	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|98751-98888|-|	Y_Contig26	98752	98888	3.6	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|98884-99438|+|	Y_Contig26	98885	99438	4.5	Jockey-3_DM	3723	4289	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|99438-99968|-|	Y_Contig26	99439	99968	5.3	Jockey-3_DM	3724	4266	ISO1	Y	het	centromere	2	Clade4A
+Y_Contig26|99971-100126|+|	Y_Contig26	99972	100126	2.6	Jockey-3_DM	4136	4290	ISO1	Y	het	centromere	2	Clade2
+Y_Contig26|100126-100335|-|	Y_Contig26	100127	100335	6.2	Jockey-3_DM	3516	3724	ISO1	Y	het	centromere	1	Clade3
+Y_Contig26|100315-101150|-|	Y_Contig26	100316	101150	4	Jockey-3_DM	2604	3644	ISO1	Y	het	centromere	1	Clade3
+Y_Contig26|101479-101592|+|	Y_Contig26	101480	101592	5.3	Jockey-3_DM	3665	3777	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|101591-101946|+|	Y_Contig26	101592	101946	3.4	Jockey-3_DM	3934	4288	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|101946-102083|-|	Y_Contig26	101947	102083	3.6	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|102079-102610|+|	Y_Contig26	102080	102610	5.7	Jockey-3_DM	3723	4266	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|102610-102773|-|	Y_Contig26	102611	102773	3.7	Jockey-3_DM	4130	4292	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|102769-103325|+|	Y_Contig26	102770	103325	4.9	Jockey-3_DM	3723	4291	ISO1	Y	het	centromere	2	Clade4A
+Y_Contig26|103325-103856|-|	Y_Contig26	103326	103856	6	Jockey-3_DM	3723	4266	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|103852-104013|+|	Y_Contig26	103853	104013	3.7	Jockey-3_DM	4130	4290	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|104013-104543|-|	Y_Contig26	104014	104543	6.4	Jockey-3_DM	3723	4266	ISO1	Y	het	centromere	5	Clade4A
+Y_Contig26|104539-104700|+|	Y_Contig26	104540	104700	1.9	Jockey-3_DM	4130	4291	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|104700-104837|-|	Y_Contig26	104701	104837	5.1	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|104833-105170|+|	Y_Contig26	104834	105170	5.3	Jockey-3_DM	3723	4072	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|105185-105322|-|	Y_Contig26	105186	105322	4.4	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|105307-105852|+|	Y_Contig26	105308	105852	5	Jockey-3_DM	3740	4295	ISO1	Y	het	centromere	2	Clade4A
+Y_Contig26|105913-106043|+|	Y_Contig26	105914	106043	4.6	Jockey-3_DM	4136	4266	ISO1	Y	het	centromere	1	Clade2
+Y_Contig26|106043-106598|-|	Y_Contig26	106044	106598	5.6	Jockey-3_DM	3723	4290	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|106594-106754|+|	Y_Contig26	106595	106754	1.9	Jockey-3_DM	4130	4289	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|106754-106891|-|	Y_Contig26	106755	106891	4.4	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|106887-107443|+|	Y_Contig26	106888	107443	5.4	Jockey-3_DM	3723	4291	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|107443-107579|-|	Y_Contig26	107444	107579	4.4	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|107575-107880|+|	Y_Contig26	107576	107880	6.2	Jockey-3_DM	3723	4040	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|107885-108005|+|	Y_Contig26	107886	108005	3.3	Jockey-3_DM	4147	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|108005-108164|-|	Y_Contig26	108006	108164	1.9	Jockey-3_DM	4130	4288	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|108160-108609|+|	Y_Contig26	108161	108609	6.5	Jockey-3_DM	3723	4184	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|108604-108907|-|	Y_Contig26	108605	108907	4.6	Jockey-3_DM	3907	4209	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|108908-108988|-|	Y_Contig26	108909	108988	2.5	Jockey-3_DM	4130	4209	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|108984-109538|+|	Y_Contig26	108985	109538	5.2	Jockey-3_DM	3723	4289	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|109538-109674|-|	Y_Contig26	109539	109674	4.4	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|109670-109975|+|	Y_Contig26	109671	109975	6.6	Jockey-3_DM	3723	4040	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|109980-110100|+|	Y_Contig26	109981	110100	3.3	Jockey-3_DM	4147	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|110100-110258|-|	Y_Contig26	110101	110258	1.9	Jockey-3_DM	4130	4287	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|110254-110703|+|	Y_Contig26	110255	110703	6	Jockey-3_DM	3723	4184	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|110698-111001|-|	Y_Contig26	110699	111001	5	Jockey-3_DM	3907	4209	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|111002-111476|-|	Y_Contig26	111003	111476	6.1	Jockey-3_DM	3723	4209	ISO1	Y	het	centromere	2	Clade4A
+Y_Contig26|111472-111633|+|	Y_Contig26	111473	111633	1.9	Jockey-3_DM	4130	4290	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|111633-111770|-|	Y_Contig26	111634	111770	4.4	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|111755-112271|+|	Y_Contig26	111756	112271	5.1	Jockey-3_DM	3740	4266	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|112271-112827|-|	Y_Contig26	112272	112827	4.7	Jockey-3_DM	3724	4292	ISO1	Y	het	centromere	0	Clade4A
+Y_Contig26|112794-112887|-|	Y_Contig26	112795	112887	15.7	Jockey-3_DM	3723	3806	ISO1	Y	het	centromere	12	Clade4A
+Y_Contig26|112883-113043|+|	Y_Contig26	112884	113043	3.1	Jockey-3_DM	4130	4289	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|113043-113592|-|	Y_Contig26	113044	113592	4.3	Jockey-3_DM	3199	3807	ISO1	Y	het	centromere	1	Clade3
+Y_Contig26|113586-114142|-|	Y_Contig26	113587	114142	5	Jockey-3_DM	3723	4291	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|114138-114300|+|	Y_Contig26	114139	114300	2.5	Jockey-3_DM	4130	4291	ISO1	Y	het	centromere	1	Clade2
+Y_Contig26|114300-114437|-|	Y_Contig26	114301	114437	4.4	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|114422-114936|+|	Y_Contig26	114423	114936	5.1	Jockey-3_DM	3740	4266	ISO1	Y	het	centromere	1	Clade4A
+Y_Contig26|114936-115496|-|	Y_Contig26	114937	115496	5.2	Jockey-3_DM	3723	4295	ISO1	Y	het	centromere	2	Clade4A
+Y_Contig26|115492-115629|+|	Y_Contig26	115493	115629	4.4	Jockey-3_DM	4130	4266	ISO1	Y	het	centromere	0	Clade2
+Y_Contig26|115629-116183|-|	Y_Contig26	115630	116183	5.2	Jockey-3_DM	3723	4289	ISO1	Y	het	centromere	2	Clade4A
+Y_Contig26|116179-116339|+|	Y_Contig26	116180	116339	3.8	Jockey-3_DM	4130	4289	ISO1	Y	het	centromere	1	Clade2
+Y_Contig26|116339-117458|-|	Y_Contig26	116340	117458	4.1	Jockey-3_DM	2604	3724	ISO1	Y	het	centromere	15	Clade3
+Y_Contig26|117800-118401|+|	Y_Contig26	117801	118401	3.8	Jockey-3_DM	3665	4297	ISO1	Y	het	centromere	6	Clade4
+Y_Contig26|122318-123015|+|	Y_Contig26	122319	123015	2.4	Jockey-3_DM	2604	3386	ISO1	Y	het	centromere	10	Clade3
+Y_Contig26|123016-123170|-|	Y_Contig26	123017	123170	9.1	Jockey-3_DM	3949	4102	ISO1	Y	het	centromere	3	Clade4
+Y_Contig26|123164-124356|+|	Y_Contig26	123165	124356	1.7	Jockey-3_DM	76	1278	ISO1	Y	het	centromere	2	Clade3
+Y_Contig26|124355-124521|-|	Y_Contig26	124356	124521	4.8	Jockey-3_DM	3876	4041	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|124571-125838|+|	Y_Contig26	124572	125838	1.5	Jockey-3_DM	1	1278	ISO1	Y	het	centromere	1	Clade3
+Y_Contig26|125837-126003|-|	Y_Contig26	125838	126003	4.8	Jockey-3_DM	3876	4041	ISO1	Y	het	centromere	0	Clade4
+Y_Contig26|126053-127299|+|	Y_Contig26	126054	127299	2.1	Jockey-3_DM	1	1263	ISO1	Y	het	centromere	5	Clade3
+Y_Contig26|127278-128104|+|	Y_Contig26	127279	128104	3	Jockey-3_DM	1831	2650	ISO1	Y	het	centromere	6	Clade3
+Y_Contig26|128102-128450|-|	Y_Contig26	128103	128450	4.6	Jockey-3_DM	3876	4223	ISO1	Y	het	centromere	1	Clade4
+Y_Contig26|128500-130879|+|	Y_Contig26	128501	130879	3.2	Jockey-3_DM	1	2480	ISO1	Y	het	centromere	22	Clade3
+Y_Contig4|562869-562903|+|	Y_Contig4	82538	82571	2.9	Jockey-3_DM	3853	3886	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig4|82537-82571|-|	Y_Contig4	562870	562903	2.9	Jockey-3_DM	3853	3886	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig70|5613-6048|+|	Y_Contig70	5614	6048	3	Jockey-3_DM	2447	2881	ISO1	Y	het	.	3	Heterochromatin
+Y_Contig70|6052-6495|+|	Y_Contig70	6053	6495	4.7	Jockey-3_DM	3087	3559	ISO1	Y	het	.	1	Heterochromatin
+Y_Contig70|6500-7022|+|	Y_Contig70	6501	7022	7.1	Jockey-3_DM	3271	3965	ISO1	Y	het	.	1	Heterochromatin
+Y_Contig70|7027-7415|+|	Y_Contig70	7028	7415	4.9	Jockey-3_DM	3719	4183	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig70|7715-7822|+|	Y_Contig70	7716	7822	4.2	Jockey-3_DM	4184	4290	ISO1	Y	het	.	1	Heterochromatin
+Y_Contig70|9233-10811|-|	Y_Contig70	9234	10811	2.3	Jockey-3_DM	1646	3240	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig70|11173-13687|+|	Y_Contig70	11174	13687	2.9	Jockey-3_DM	1380	4000	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig70|14560-16179|-|	Y_Contig70	14561	16179	2.8	Jockey-3_DM	1646	3564	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig70|16541-18423|+|	Y_Contig70	16542	18423	2.2	Jockey-3_DM	1380	3322	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig70|18421-18965|+|	Y_Contig70	18422	18965	5.8	Jockey-3_DM	3517	4106	ISO1	Y	het	.	1	Heterochromatin
+Y_Contig74|53704-54187|-|	Y_Contig74	53705	54187	1.2	Jockey-3_DM	3811	4294	ISO1	Y	het	.	0	Heterochromatin
+Y_Contig74|64194-64676|+|	Y_Contig74	64195	64676	1.2	Jockey-3_DM	3811	4293	ISO1	Y	het	.	0	Heterochromatin
+Y_scaffold4|1127623-1127830|+|	Y_scaffold4	1127624	1127830	1.9	Jockey-3_DM	4087	4293	ISO1	Y	het	.	0	Heterochromatin
+Y_scaffold4|1155351-1155554|+|	Y_scaffold4	1155352	1155554	2	Jockey-3_DM	4087	4289	ISO1	Y	het	.	0	Heterochromatin
+Y_scaffold4|1159151-1159352|+|	Y_scaffold4	1159152	1159352	2	Jockey-3_DM	4095	4295	ISO1	Y	het	.	0	Heterochromatin
+Y_scaffold4|1250817-1251027|+|	Y_scaffold4	1250818	1251027	1.9	Jockey-3_DM	4087	4296	ISO1	Y	het	.	1	Heterochromatin
+Y_scaffold4|1281133-1281490|+|	Y_scaffold4	1281134	1281490	1.1	Jockey-3_DM	3922	4286	ISO1	Y	het	.	0	Heterochromatin
+Y_scaffold4|1285370-1285728|+|	Y_scaffold4	1285371	1285728	1.4	Jockey-3_DM	3922	4287	ISO1	Y	het	.	0	Heterochromatin
+Y_scaffold4|1659846-1660307|+|	Y_scaffold4	1659847	1660307	3.5	Jockey-3_DM	3840	4324	ISO1	Y	het	.	2	Heterochromatin
+Y_scaffold4|1846105-1846969|+|	Y_scaffold4	1846106	1846969	3	Jockey-3_DM	3432	4297	ISO1	Y	het	.	2	Heterochromatin
+Y_scaffold4|1888313-1889091|+|	Y_scaffold4	1888314	1889091	3.2	Jockey-3_DM	3432	4298	ISO1	Y	het	.	3	Heterochromatin
+Y_scaffold4|2589422-2589550|-|	Y_scaffold4	2589423	2589550	3.1	Jockey-3_DM	4168	4295	ISO1	Y	het	.	1	Heterochromatin
+Y_scaffold5|341448-344514|+|	Y_scaffold5	341449	344514	0.6	Jockey-3_DM	1195	4296	ISO1	Y	het	.	3	Heterochromatin
+Y_scaffold5|346794-348945|+|	Y_scaffold5	346795	348945	0.8	Jockey-3_DM	1	2186	ISO1	Y	het	.	11	Heterochromatin
+Y_scaffold5|349853-351307|+|	Y_scaffold5	349854	351307	1.9	Jockey-3_DM	2850	4303	ISO1	Y	het	.	8	Heterochromatin
+Y_scaffold6|107027-108091|-|	Y_scaffold6	107028	108091	15.8	Jockey-3_DM	82	1196	ISO1	Y	het	.	NA	Heterochromatin
+Y_scaffold7|19020-23280|+|	Y_scaffold7	19021	23280	0.9	Jockey-3_DM	1	4295	ISO1	Y	het	.	1	Heterochromatin
+Y_scaffold7|689715-692269|+|	Y_scaffold7	689716	692269	1.5	Jockey-3_DM	1	2577	ISO1	Y	het	.	7	Heterochromatin
+Y_scaffold7|693863-696430|+|	Y_scaffold7	693864	696430	1.4	Jockey-3_DM	1	2577	ISO1	Y	het	.	4	Heterochromatin
+Y_scaffold7|698009-700579|+|	Y_scaffold7	698010	700579	1.4	Jockey-3_DM	1	2577	ISO1	Y	het	.	4	Heterochromatin
+Y_scaffold7|702162-706449|+|	Y_scaffold7	702163	706449	1.5	Jockey-3_DM	1	4290	ISO1	Y	het	.	12	Heterochromatin
+id13735|9766-12129|+|	id13735	9767	12129	16.5	Jockey-3_DM	1	2356	ISO1	.	het	.	NA	Heterochromatin
+id13735|13413-13778|+|	id13735	13414	13778	19.7	Jockey-3_DM	3689	4062	ISO1	.	het	.	NA	Heterochromatin
+id13809|9766-12129|+|	id13809	9767	12129	16.5	Jockey-3_DM	1	2356	ISO1	.	het	.	NA	Heterochromatin
+id13809|13413-13778|+|	id13809	13414	13778	19.7	Jockey-3_DM	3689	4062	ISO1	.	het	.	NA	Heterochromatin
+id5721|6495-10890|+|	id5721	6496	10890	11.7	Jockey-3_DM	5	4291	ISO1	.	het	.	NA	Heterochromatin
+tig00002845|0-301|+|	tig00002845	1	301	12.5	Jockey-3_DM	3785	4077	ISO1	.	het	.	39	Heterochromatin
+tig00002845|303-406|+|	tig00002845	304	406	14.8	Jockey-3_DM	4195	4296	ISO1	.	het	.	6	Heterochromatin
+tig00022795|13724-14327|+|	tig00022795	13725	14327	4	Jockey-3_DM	2594	3208	ISO1	3	het	proximal_centromeric region	1	Heterochromatin
+tig00022795|14326-14753|+|	tig00022795	14327	14753	4	Jockey-3_DM	3653	4078	ISO1	3	het	proximal_centromeric region	0	Heterochromatin
+tig00022795|14754-14853|+|	tig00022795	14755	14853	9.1	Jockey-3_DM	4196	4296	ISO1	3	het	proximal_centromeric region	0	Heterochromatin
+tig00022795|28713-29723|+|	tig00022795	28714	29723	8.5	Jockey-3_DM	2594	4078	ISO1	3	het	proximal_centromeric region	9	Heterochromatin
+tig00022795|29724-29782|+|	tig00022795	29725	29782	7.2	Jockey-3_DM	4196	4252	ISO1	3	het	proximal_centromeric region	3	Heterochromatin
+tig00051078|5939-6207|-|	tig00051078	5940	6207	3.1	Jockey-3_DM	4024	4288	ISO1	.	het	.	16	Heterochromatin
+tig00057289|6095-6377|-|	tig00057289	6096	6377	5.3	Jockey-3_DM	3594	3878	ISO1	2	het	centromere	7	Non-Y Cent
+tig00057289|6506-7863|+|	tig00057289	6507	7863	2.1	Jockey-3_DM	1	1412	ISO1	2	het	centromere	17	Non-Y Cent

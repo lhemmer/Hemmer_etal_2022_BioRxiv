@@ -1,0 +1,211 @@
+"Table S11. Chromatin status assignments for contigs. We assigned contigs in the assembly to a chromosome and a chromatin status (heterochromatin/euchromatin, etc. based on Riddle et al. 2011,2012; see supplemental methods). Blank cells indicate that a region could not be assigned.",,,,,
+##3: NTS/dodaca is proximal centromeric,,,,,
+##2: Rsp_2 is proximal centromeric,,,,,
+##X: 359 is proximal centromeric,,,,,
+## tig00057289 is 2-cen,,,,,
+## 3R_5 is 3-cen,,,,,
+"## 0-35,000 (35kb) of 2L_1 and 21,579,400-end (112kb) of 2R_21 are 2-telomere",,,,,
+"## 0-7,000 (7kb) of 3L_1 and 27,961,000-end (30kb) of 3R_28 are 3-telomere",,,,,
+## 0-123800 (100kb) of X_1 is X telomere,,,,,
+#chromosome,#hetero/euchromatin,#region,#contig_name,#range,#length
+2,het,telomere,2L_1,0-35000,21497588
+2,eu,,2L_1,35000-21497588,21497588
+2,eu,,2L_2,0-1561069,2041562
+2,het,,2L_2,1561069-2041562,2041562
+2,het,,2R_16,,784897
+2,het,,2R_18,,724820
+2,het,,2R_19,,416897
+2,het,,2R_20,,1966542
+2,het,,2R_21,0-1656950,21691270
+2,eu,,2R_21,1656950-21579400,21691270
+2,het,telomere,2R_21,21579400-21691270,21691270
+2,het,,2R2_56_D1828,,13164
+3,het,proximal_centromeric region,3Cen_27_D1777,,11973
+3,het,,3Cen_31_D1643_D1653_D1791_1,,30458
+3,het,,3Cen_31_D1643_D1653_D1791_5,,2876
+3,het,,3Cen_31_D1643_D1653_D1791_6,,23938
+3,het,,3Cen_31_D1643_D1653_D1791_8,,71438
+3,het,proximal_centromeric region,3Cen_36_D1605_1,,27124
+3,het,proximal_centromeric region,3Cen_36_D1605_2,,9663
+3,het,proximal_centromeric region,3Cen_50_D1686_1,,5642
+3,het,proximal_centromeric region,3Cen_50_D1686_2,,14583
+3,het,telomere,3L_1,0-7000,24600008
+3,eu,,3L_1,7000-22946425,24600008
+3,het,,3L_1,22946425-24600008,24600008
+3,het,,3L_10,,1333836
+3,het,,3L_3,,106275
+3,het,,3L_4,,1804980
+3,het,,3L_5,,545545
+3,het,,3L_8,,9398
+3,het,proximal_centromeric region,3R_1,,27264
+3,het,proximal_centromeric region,3R_10,,36246
+3,het,proximal_centromeric region,3R_2,,3452
+3,eu,,3R_28,0-27961000,27994903
+3,het,telomere,3R_28,27961000-27994903,27994903
+3,het,proximal_centromeric region,3R_3,,13549
+3,het,proximal_centromeric region,3R_4,,2314
+3,het,centromere,3R_5,,103827
+3,het,proximal_centromeric region,3R_6,,45849
+3,het,proximal_centromeric region,3R_8,,16639
+3,het,proximal_centromeric region,3R_9,,79293
+3,het,,3_scaffold1,,2808589
+3,het,,3_scaffold2,,1735083
+4,het,,4_2,0-50000,1317735
+4,eu,,4_2,50000-1317735,1317735
+3,het,,Contig101,,50038
+X,het,proximal_centromeric region,Contig102,,4967
+X,het,proximal_centromeric region,Contig103,,7153
+3,het,proximal_centromeric region,Contig11,,338657
+,het,,Contig111,,50623
+,het,,Contig112,,52470
+,het,,Contig114,,89724
+,het,,Contig117,,40889
+,het,,Contig118,,38442
+4,het,centromere,Contig119,,93914
+X,het,proximal_centromeric region,Contig120,,98825
+,het,,Contig121,,50340
+,het,,Contig123,,40807
+,het,,Contig128,,38311
+,het,telomere,Contig129,,34040
+,het,telomere,Contig13,,268964
+,het,,Contig133,,25747
+,het,,Contig134,,37526
+X,het,,Contig135,,439355
+2,het,proximal_centromeric region,Contig142,0-60000,183015
+2,het,proximal_centromeric region,Contig142,60000-183015,183015
+3,het,proximal_centromeric region,Contig145,,99622
+,het,,Contig147,,93105
+,het,,Contig149,,98868
+,het,,Contig150,,113509
+,het,,Contig151,,47769
+,het,,Contig157,,21176
+,het,,Contig21,,200908
+X,het,proximal_centromeric region,Contig31,,27958
+,het,,Contig36,,133201
+,het,,Contig37,,41805
+,het,,Contig38,,224834
+,het,,Contig39,,95124
+,het,,Contig41,,33639
+,het,,Contig42,,52851
+,het,,Contig43,,38154
+,het,,Contig45,,55038
+,het,,Contig46,,72052
+,het,,Contig47,,52399
+,het,,Contig49,,42125
+X,het,,Contig5,,535166
+,het,,Contig50,,90319
+,het,,Contig51,,43300
+,het,,Contig53,,52039
+,het,,Contig54,,51347
+,het,,Contig55,,72375
+,het,,Contig56,,39431
+,het,,Contig57,,65984
+,het,,Contig58,,35216
+,het,,Contig59,,64516
+,het,,Contig61,,40591
+,het,,Contig62,,61736
+,het,,Contig63,,34725
+,het,,Contig64,,40641
+,het,,Contig66,,46486
+,het,,Contig69,,37816
+,het,,Contig72,,48072
+X,het,centromere,Contig79,,70181
+3,het,,Contig80,,13218
+,het,telomere,Contig82,,232305
+X,het,proximal_centromeric region,Contig83,,15769
+3,het,proximal_centromeric region,Contig86,,30087
+,het,,Contig87,,13052
+3,het,,Contig9,,393235
+,het,,Contig90,,32831
+,het,,Contig92,,25251
+,het,,Contig93,,19945
+3,het,,Contig94,,12855
+X,het,proximal_centromeric region,Contig95,,17404
+X,het,proximal_centromeric region,Contig96,,19727
+3,het,,Contig98,,7989
+,het,,Contig99,,21056
+,,,dmel_mitochondrion_genome,,19532
+2,het,proximal_centromeric region,Rsp_2,,25308
+X,het,telomere,X_1,0-123800,21906113
+X,eu,,X_1,123800-21906113,21906113
+X,het,,X_10,,115839
+X,eu,,X_2,,353202
+X,eu,,X_3,,20518
+X,het,,X3X4_6_D1712_2,,67988
+X,eu,,X_7,0-340031,733110
+X,het,,X_7,340031-733110,733110
+X,het,,X_9,,35571
+Y,het,,Y_Contig10,,396096
+Y,het,,Y_Contig100,,6306
+Y,het,,Y_Contig104,,415375
+Y,het,,Y_Contig106,,59005
+Y,het,,Y_Contig108,,42663
+Y,het,,Y_Contig109,,38313
+Y,het,,Y_Contig113,,50367
+Y,het,,Y_Contig122,,59453
+Y,het,,Y_Contig124,,71252
+Y,het,,Y_Contig125,,33888
+Y,het,,Y_Contig126,,56127
+Y,het,,Y_Contig127,,60823
+Y,het,,Y_Contig130,,70942
+Y,het,,Y_Contig132,,23371
+Y,het,,Y_Contig14,,239311
+Y,het,,Y_Contig140,,716467
+Y,het,,Y_Contig141,,190784
+Y,het,,Y_Contig143,,83747
+Y,het,,Y_Contig17,,416887
+Y,het,proximal_centromeric region,Y_Contig2,,1011280
+Y,het,,Y_Contig20,,338369
+Y,het,,Y_Contig22,,157794
+Y,het,,Y_Contig23,,189747
+Y,het,centromere,Y_Contig26,,139957
+Y,het,,Y_Contig28,,157911
+Y,het,,Y_Contig29,,123550
+Y,het,,Y_Contig32,,50581
+Y,het,,Y_Contig33,,260816
+Y,het,,Y_Contig34,,93265
+Y,het,,Y_Contig35,,186386
+Y,het,,Y_Contig4,,644356
+Y,het,,Y_Contig40,,37260
+Y,het,,Y_Contig44,,35218
+Y,het,,Y_Contig48,,48393
+Y,het,,Y_Contig52,,39424
+Y,het,,Y_Contig6,,458350
+Y,het,,Y_Contig65,,52166
+Y,het,,Y_Contig68,,18332
+Y,het,,Y_Contig70,,28820
+Y,het,,Y_Contig71,,18047
+Y,het,,Y_Contig73,,58927
+Y,het,,Y_Contig74,,92656
+Y,het,,Y_Contig75,,62633
+Y,het,,Y_Contig77,,107302
+Y,het,,Y_Contig78,,74813
+Y,het,,Y_Contig81,,32099
+Y,het,,Y_Contig88,,41475
+Y,het,,Y_Contig89,,25792
+Y,het,,Y_Contig91,,37888
+Y,het,,Y_Contig97,,34309
+Y,het,,Y_scaffold3,,235319
+Y,het,,Y_scaffold4,,3349330
+Y,het,,Y_scaffold5,,686231
+Y,het,,Y_scaffold6,,574027
+Y,het,,Y_scaffold7,,2069423
+3,het,proximal_centromeric region,id=102159_0,,20774
+X,het,,id=104983_0,,24728
+X,het,,id=130011_0,,16412
+,het,,id=134134_0,,16339
+,het,,id=134699_0,,14118
+,het,,id13735,,20650
+,het,,id13809,,20650
+3,het,proximal_centromeric region,id=139401_0,,11405
+,het,,id=142686_0,,19566
+,het,,id=154173_0,,6590
+,het,,id=51911_0,,22343
+,het,,id5721,,21076
+3,het,proximal_centromeric region,id=67822_0,,14294
+3,het,proximal_centromeric region,tig00000039,,42086
+,het,,tig00002536,,17216
+,het,,tig00002845,,33385
+3,het,proximal_centromeric region,tig00022795,,30745
+,het,,tig00051078,,8880
+2,het,centromere,tig00057289,,24561
